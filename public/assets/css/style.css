@@ -1,0 +1,52 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1{
+    font-weight: bolder;
+}
+
+h1, h2, h3 {
+    color: #b300a4;
+}
+
+#searchBox {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 1rem;
+}
+
+#nav{
+    background-color: #004eb3;
+    width: 100vw;
+    
+}
+#main {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+}
+
+button{
+    height: min-content;
+}
+
+#meaning, #example {
+    margin-top: 1.5rem;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+#sampleWord { 
+    font-weight: bold;
+    /* color: #004eb3; */
+}
+
+#sampleText{
+    font-style: italic;
+}
